@@ -1,14 +1,14 @@
 <h1 align="center">Hi there, I'm Gleb
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Beginner QA Engineer from Russia 🇷🇺</h3>
+<h3 align="center">Beginner QA Engineer from Russia</h3>
 
 <h4>Тестовая документация:</h4>
-
-<a href="https://docs.google.com/spreadsheets/d/1RytQwaAjqsZ6CpkPNSrjiy1AUOpWv7kqPVBUzzyh8jI/edit#gid=1226550170">Багрепорты</a><p>
-<a href="https://docs.google.com/spreadsheets/d/1L-7hQLV9y3BPlXHWGT4LXwNdIPxgvZsygR-eNjs1L9A/edit#gid=1174300733">Liveness</a><p>
-<a href="https://docs.google.com/spreadsheets/d/1mw1ycPxpvSkUwhfb5x-UqXOBIWz2iz71JkEb4V_Iuac/edit#gid=0">CryptoPrice Widget</a><p>
-<a href="https://docs.google.com/spreadsheets/d/1Gh9GUAmxBOA16Ge2hjUiAfwBcoJ64p1roKD-3LKfXPk/edit#gid=305272380">ToDoList</a>
-  
+<ul>
+<li><a href="https://docs.google.com/spreadsheets/d/1RytQwaAjqsZ6CpkPNSrjiy1AUOpWv7kqPVBUzzyh8jI/edit#gid=1226550170">Багрепорты</a><p></li>
+<li><a href="https://docs.google.com/spreadsheets/d/1L-7hQLV9y3BPlXHWGT4LXwNdIPxgvZsygR-eNjs1L9A/edit#gid=1174300733">Liveness</a><p></li>
+<li><a href="https://docs.google.com/spreadsheets/d/1mw1ycPxpvSkUwhfb5x-UqXOBIWz2iz71JkEb4V_Iuac/edit#gid=0">CryptoPrice Widget</a><p></li>
+<li><a href="https://docs.google.com/spreadsheets/d/1Gh9GUAmxBOA16Ge2hjUiAfwBcoJ64p1roKD-3LKfXPk/edit#gid=305272380">ToDoList</a></li>
+</ul> 
 <h4>Skills and Tools</h4><p>
   
 ![Git](https://img.shields.io/badge/git-414141.svg?style=for-the-badge&logo=git&logoColor=white)
