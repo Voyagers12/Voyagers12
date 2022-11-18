@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Beginner QA Engineer from Russia</h3>
 
-<h4>Тестовая документация:</h4>
+<h4>Test documentation:</h4>
 <ul>
 <li><a href="https://docs.google.com/spreadsheets/d/1RytQwaAjqsZ6CpkPNSrjiy1AUOpWv7kqPVBUzzyh8jI/edit#gid=1226550170">Примеры багрепортов с коммерческих проектов</a><p></li>
 <li><a href="https://docs.google.com/spreadsheets/d/1L-7hQLV9y3BPlXHWGT4LXwNdIPxgvZsygR-eNjs1L9A/edit#gid=1174300733">Примеры чек-листов на функционал Liveness</a><p></li>
