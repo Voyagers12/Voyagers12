@@ -14,9 +14,9 @@
 ![Git](https://img.shields.io/badge/git-414141.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-414141.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-414141.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-414141.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-414141.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-414141?style=for-the-badge&logo=postman&logoColor=white)
-![DevTool](https://img.shields.io/badge/-Devtools-414141?style=for-the-badge&logo=Chrome)
+![DevTool](https://img.shields.io/badge/-Devtools-414141?style=for-the-badge&logo=Chrome&logoColor=owhite)
 
 <h4>Connect with me</h4><p>
   
