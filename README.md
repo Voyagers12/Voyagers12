@@ -4,10 +4,10 @@
 
 <h4>Test documentation:</h4>
 <ul>
-<li><a href="https://docs.google.com/spreadsheets/d/1RytQwaAjqsZ6CpkPNSrjiy1AUOpWv7kqPVBUzzyh8jI/edit#gid=1226550170">Примеры багрепортов с коммерческих проектов</a><p></li>
-<li><a href="https://docs.google.com/spreadsheets/d/1L-7hQLV9y3BPlXHWGT4LXwNdIPxgvZsygR-eNjs1L9A/edit#gid=1174300733">Примеры чек-листов на функционал Liveness</a><p></li>
-<li><a href="https://docs.google.com/spreadsheets/d/1mw1ycPxpvSkUwhfb5x-UqXOBIWz2iz71JkEb4V_Iuac/edit#gid=0">Примеры чек-листов на мобильное приложение CryptoPrice Widget</a><p></li>
-<li><a href="https://docs.google.com/spreadsheets/d/1Gh9GUAmxBOA16Ge2hjUiAfwBcoJ64p1roKD-3LKfXPk/edit#gid=305272380">Документация на мобильное приложениеToDoList</a></li>
+<li><a href="https://docs.google.com/spreadsheets/d/1RytQwaAjqsZ6CpkPNSrjiy1AUOpWv7kqPVBUzzyh8jI/edit#gid=1226550170">Примеры багрепортов с проектов</a><p></li>
+<li><a href="https://docs.google.com/spreadsheets/d/1L-7hQLV9y3BPlXHWGT4LXwNdIPxgvZsygR-eNjs1L9A/edit#gid=1174300733">Чек-лист на функционал Liveness</a><p></li>
+<li><a href="https://docs.google.com/spreadsheets/d/1mw1ycPxpvSkUwhfb5x-UqXOBIWz2iz71JkEb4V_Iuac/edit#gid=0">Чек-лист на мобильное приложение CryptoPrice Widget</a><p></li>
+<li><a href="https://docs.google.com/spreadsheets/d/1Gh9GUAmxBOA16Ge2hjUiAfwBcoJ64p1roKD-3LKfXPk/edit#gid=305272380">Документация на мобильное приложение ToDoList</a></li>
 </ul> 
 <h4>Skills and Tools</h4><p>
   
